@@ -1,0 +1,76 @@
+.bgdash {
+  padding: 20px 139px;
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  margin-right: auto;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.cardswrapper {
+  display: flex;
+}
+.cards {
+  display: flex;
+  margin: 20px auto;
+}
+.profile {
+  display: flex;
+  padding: 25px 30px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  width: 352px;
+  display: flex;
+  flex-direction: column;
+}
+
+.iconwrapper {
+  display: flex;
+}
+
+.profilelogo {
+  margin-right: auto;
+  margin-bottom: 20px;
+  width: 44px;
+  height: 44px;
+}
+
+.pengaturan {
+  width: 100px;
+  height: 30px;
+}
+
+.name {
+  text-align: left;
+  font-size: 30px;
+  font-weight: 700;
+  margin-top: 17px;
+  margin-right: auto;
+}
+
+.phone {
+  margin-top: 17px;
+  margin-bottom: 0;
+  margin-right: auto;
+  font-size: 12px;
+}
+
+.email {
+  margin-top: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+  font-size: 12px;
+}
+
+.poAktif {
+  width: 168px;
+  background-color: #eff8f1;
+}
+
+.poSisa {
+  width: 168px;
+  background-color: #fff3d9;
+}
